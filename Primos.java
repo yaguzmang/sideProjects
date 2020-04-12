@@ -24,23 +24,9 @@ public class Primos {
             }
             cont = 0;
         }
-        /*
-        int[] contadores = new int[num/2];
-        for(int i = 0; i < index - 1;i++){
-            diferencia[i] = primos[i+1]-primos[i];
-            contadores[diferencia[i]]++;
-        }
-        
-        imprimirPrim(primos,index);
-        System.out.println();
-        imprimirDif(diferencia,index);
-        System.out.println();
-        System.out.println(index);
-        System.out.println();
-        imprimirCont(contadores);
-         */
         System.out.println("Done");
     }
+     
      public void imprimirDif(int[] diferencia, int index) {
         for (int i = 0; i < index - 1; i++) {
             //System.out.print(primos[i]+" | ");
