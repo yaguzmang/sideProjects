@@ -1,8 +1,8 @@
 /**
- * Write a description of class Pirmos here.
+ * This class generates primer numbers
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Yhoan Alejandro Guzman Garcia)
+ * @version (1.0)
  */
 public class Primos {
      void primos(int num) {
