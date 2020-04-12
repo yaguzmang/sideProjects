@@ -1,5 +1,5 @@
 /**
- * This class generates primer numbers
+ * This class generates prime numbers
  *
  * @author (Yhoan Alejandro Guzman Garcia)
  * @version (1.0)
